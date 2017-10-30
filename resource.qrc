@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bg.png</file>
+        <file>Image/icon.png</file>
+        <file>Image/role1_Left.png</file>
+        <file>Image/role1_Right.png</file>
+        <file>Image/role1_Down.png</file>
+        <file>Image/role1_Up.png</file>
+        <file>Image/role2_Down.png</file>
+        <file>Image/role2_Left.png</file>
+        <file>Image/role2_Right.png</file>
+        <file>Image/role2_Up.png</file>
+        <file>Image/weapon1.png</file>
+        <file>Image/weapon2.png</file>
+        <file>Image/weapon3.png</file>
+        <file>Image/weapon_r1_ult.png</file>
+        <file>Image/logbutton_1p.png</file>
+        <file>Image/logbutton_2p.png</file>
+        <file>Image/login_1.png</file>
+        <file>Image/login_2.png</file>
+        <file>Image/login_3.png</file>
+        <file>Image/login_4.png</file>
+        <file>Image/restart.png</file>
+        <file>Image/win_1.png</file>
+        <file>Image/win_2.png</file>
+        <file>Image/weapon_r2_ult.png</file>
+        <file>Image/r1_head.png</file>
+        <file>Image/r2_head.png</file>
+    </qresource>
+</RCC>
