@@ -8,4 +8,4 @@ Almost all the images were from Crazy Arcade, which is a popular game in Taiwan.
 
 Feel free to reuse the code, but all the images is provided for only non-commercial purposes.
 
-:>
+Rex Yang <3
