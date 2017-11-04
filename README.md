@@ -1,5 +1,7 @@
 This is my final project for the course, Introduction to Programming (II).
 
+https://www.youtube.com/watch?v=tK0slbYJ3Do
+
 You should open the project by Qt 5.6.0.
 
 I created a 2D game which allows two players to controll characters to fight with each other by throwing water balls.
