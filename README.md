@@ -1,6 +1,6 @@
 This is my final project for the course, Introduction to Programming (II).
 
-https://www.youtube.com/watch?v=tK0slbYJ3Do
+https://www.youtube.com/watch?v=_8lLXc0Pb8s&feature=youtu.be
 
 You should open the project by Qt 5.6.0.
 
